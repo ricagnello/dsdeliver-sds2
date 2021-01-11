@@ -1,5 +1,3 @@
-
-import { brotliCompress } from 'zlib';
 import { formatPrice } from './helpers';
 import { Product } from './types';
 
